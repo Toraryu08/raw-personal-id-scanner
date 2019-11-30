@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../.." />
+    <content url="file://$MODULE_DIR$/../../../packages/EMGU.CV.4.1.1.3497/build/x64/concrt140.dll" />
+    <content url="file://$MODULE_DIR$/../../../packages/EMGU.CV.4.1.1.3497/build/x64/cvextern.dll" />
+    <content url="file://$MODULE_DIR$/../../../packages/EMGU.CV.4.1.1.3497/build/x64/msvcp140.dll" />
+    <content url="file://$MODULE_DIR$/../../../packages/EMGU.CV.4.1.1.3497/build/x64/opencv_videoio_ffmpeg411_64.dll" />
+    <content url="file://$MODULE_DIR$/../../../packages/EMGU.CV.4.1.1.3497/build/x64/vcruntime140.dll" />
+    <content url="file://$MODULE_DIR$/../../../packages/EMGU.CV.4.1.1.3497/build/x86/concrt140.dll" />
+    <content url="file://$MODULE_DIR$/../../../packages/EMGU.CV.4.1.1.3497/build/x86/cvextern.dll" />
+    <content url="file://$MODULE_DIR$/../../../packages/EMGU.CV.4.1.1.3497/build/x86/msvcp140.dll" />
+    <content url="file://$MODULE_DIR$/../../../packages/EMGU.CV.4.1.1.3497/build/x86/opencv_videoio_ffmpeg411.dll" />
+    <content url="file://$MODULE_DIR$/../../../packages/EMGU.CV.4.1.1.3497/build/x86/vcruntime140.dll" />
+    <content url="file://$MODULE_DIR$/../../../packages/Tesseract.3.3.0/x64/liblept1753.dll" />
+    <content url="file://$MODULE_DIR$/../../../packages/Tesseract.3.3.0/x64/libtesseract3052.dll" />
+    <content url="file://$MODULE_DIR$/../../../packages/Tesseract.3.3.0/x86/liblept1753.dll" />
+    <content url="file://$MODULE_DIR$/../../../packages/Tesseract.3.3.0/x86/libtesseract3052.dll" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
